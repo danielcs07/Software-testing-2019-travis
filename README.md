@@ -1,6 +1,6 @@
 # Software-testing-2019-travis
 
-https://travis-ci.org/danielcs07/Software-testing-2019-travis.svg?branch=master
+[![codecov](https://codecov.io/gh/danielcs07/Software-testing-2019-travis/branch/master/graph/badge.svg)](https://travis-ci.org/danielcs07/Software-testing-2019-travis.svg?branch=master)
 [![codecov](https://codecov.io/gh/danielcs07/Software-testing-2019-travis/branch/master/graph/badge.svg)](https://codecov.io/gh/danielcs07/Software-testing-2019-travis)
 
 ## Makefile
